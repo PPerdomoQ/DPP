@@ -1,8 +1,8 @@
 # DPP
 
 <p align="center">
-    <a href="../images/rdf/DPP_creatine.png" target="_blank">
-        <img src="../images/rdf/DPP_creatine.png">
+    <a href="DPP_creatine.png" target="_blank">
+        <img src="DPP_creatine.png">
     </a>
 </p>
 
